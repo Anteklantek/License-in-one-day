@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#A7DBD8</color>
+    <color name="colorActionBar">#45b9c2</color>
+    <color name="colorPrimaryDark">#6F918F</color>
+    <color name="colorAccent">#32cd7f</color>
+    <color name="dark_background">#E0E4CC</color>
+    <color name="button">#FA6900</color>
+    <color name="darkest_background">#F38630</color>
+    <color name="good_answer">#BDECB6</color>
+    <color name="bad_answer">#FF7878</color>
+</resources>

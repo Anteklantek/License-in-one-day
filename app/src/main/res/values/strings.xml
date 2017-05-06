@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PPL</string>
+    <string-array name="topics">
+        <item>Procedury&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</item>
+        <item>Meteo&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</item>
+        <item>Zasady Lotu&#160;&#160;&#160;&#160;&#160;&#160;&#160;</item>
+        <item>Planowanie Lotu</item>
+    </string-array>
+
+    <string-array name="topics_filenames">
+        <item>procedury_2</item>
+        <item>meteo</item>
+        <item>zasady_lotu</item>
+        <item>planowanie_lotu</item>
+    </string-array>
+
+</resources>
