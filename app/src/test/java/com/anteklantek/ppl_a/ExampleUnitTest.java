@@ -1,9 +1,8 @@
-package com.example.antek.ppl;
+package com.anteklantek.ppl_a;
 
 import org.junit.Test;
 
 import java.util.ArrayList;
-import java.util.InputMismatchException;
 
 import static org.junit.Assert.*;
 

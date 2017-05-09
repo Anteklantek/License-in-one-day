@@ -1,4 +1,4 @@
-package com.example.antek.ppl;
+package com.anteklantek.ppl_a;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

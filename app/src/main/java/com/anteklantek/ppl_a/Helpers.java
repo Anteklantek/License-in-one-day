@@ -1,9 +1,10 @@
-package com.example.antek.ppl;
+package com.anteklantek.ppl_a;
 
 import android.content.Context;
-import android.util.Log;
+import android.content.res.Resources;
+import android.util.DisplayMetrics;
 
-import com.example.antek.ppl.model.Question;
+import com.anteklantek.ppl_a.model.Question;
 
 import java.io.BufferedReader;
 import java.io.InputStream;
@@ -28,15 +29,17 @@ class Helpers {
             input = new BufferedReader(isr);
             String line;
             while ((line = input.readLine()) != null) {
-                String[] parts = line.split(";");
+                String[] parts = line.split("@@");
                 Question question = new Question();
-                question.question = parts[0];
-                question.goodAnswer = parts[1];
-                question.answ2 = parts[2];
-                question.answ3 = parts[3];
-                question.answ4 = parts[4];
+                question.lp = Integer.parseInt(parts[0]);
+                String[] parts2 = parts[1].split("@");
+                question.code = parts2[0];
+                question.question = parts2[1];
+                question.goodAnswer = parts2[2];
+                question.answ2 = parts2[3];
+                question.answ3 = parts2[4];
+                question.answ4 = parts2[5];
                 list.add(question);
-                Log.v("ccccc", line);
             }
         } catch (Exception e) {
             e.getMessage();
@@ -66,6 +69,13 @@ class Helpers {
             }
         }
         return listToBeReturned;
+    }
+
+    static float convertDpToPixel(float dp, Context context){
+        Resources resources = context.getResources();
+        DisplayMetrics metrics = resources.getDisplayMetrics();
+        float px = dp * ((float)metrics.densityDpi / DisplayMetrics.DENSITY_DEFAULT);
+        return px;
     }
 
 }

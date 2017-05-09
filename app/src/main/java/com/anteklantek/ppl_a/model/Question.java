@@ -1,4 +1,4 @@
-package com.example.antek.ppl.model;
+package com.anteklantek.ppl_a.model;
 
 import android.os.Parcel;
 import android.os.Parcelable;
@@ -8,17 +8,21 @@ import android.os.Parcelable;
  */
 
 public class Question implements Parcelable {
-
+    public int lp;
+    public String code;
     public String question;
     public String goodAnswer;
     public String answ2;
     public String answ3;
     public String answ4;
 
-    public Question() {
+    public Question(){
+
     }
 
     protected Question(Parcel in) {
+        lp = in.readInt();
+        code = in.readString();
         question = in.readString();
         goodAnswer = in.readString();
         answ2 = in.readString();
@@ -33,6 +37,8 @@ public class Question implements Parcelable {
 
     @Override
     public void writeToParcel(Parcel dest, int flags) {
+        dest.writeInt(lp);
+        dest.writeString(code);
         dest.writeString(question);
         dest.writeString(goodAnswer);
         dest.writeString(answ2);

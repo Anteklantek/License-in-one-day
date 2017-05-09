@@ -1,17 +1,28 @@
 <resources>
     <string name="app_name">PPL</string>
     <string-array name="topics">
-        <item>Procedury&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</item>
-        <item>Meteo&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</item>
-        <item>Zasady Lotu&#160;&#160;&#160;&#160;&#160;&#160;&#160;</item>
-        <item>Planowanie Lotu</item>
+        <item>Procedury</item>
+        <item>Meteo</item>
+        <item>Zasady Lotu</item>
+        <item>Osiągi i Planowanie</item>
+        <item>Człowiek</item>
+        <item>Nawigacja</item>
+        <item>Łączność</item>
+        <item>Ogólna wiedza</item>
+        <item>Prawo lotnicze</item>
+
     </string-array>
 
     <string-array name="topics_filenames">
-        <item>procedury_2</item>
+        <item>procedury</item>
         <item>meteo</item>
         <item>zasady_lotu</item>
-        <item>planowanie_lotu</item>
+        <item>osiagi_i_planowanie</item>
+        <item>czlowiek</item>
+        <item>nawigacja</item>
+        <item>lacznosc</item>
+        <item>ogolna_wiedza</item>
+        <item>prawo_lotnicze</item>
     </string-array>
 
 </resources>

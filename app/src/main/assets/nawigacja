@@ -1,0 +1,191 @@
+1243@@PL060-0001@762 metry to po przeliczeniu:@2 500 ft@25000 ft@2 400 ft@232.3 ft@
+1244@@PL060-0002@Ciśnienie panujące na progu drogi startowej w użyciu oznaczamy jako:@QFE@QNE@QNH@STD@
+1245@@PL060-0003@Deklinacja to:@kąt zawarty między południkiem geograficznym a południkiem magnetycznym@kąt zawarty między kierunkiem wektora magnetycznego Ziemi a płaszczyzną styczną do jej powierzchni@kąt zawarty między południkiem magnetycznym a południkiem busoli, mierzony zgodnie z połówkowym systemem pomiaru kierunku@linia łącząca punkty o jednakowej wartości inklinacji@
+1246@@PL060-0004@Dewiacja busoli to:@kąt zawarty między południkiem magnetycznym a południkiem busoli, mierzony zgodnie z połówkowym systemem pomiaru kierunku@kąt zawarty między południkiem geograficznym a południkiem magnetycznym@kąt zawarty między kierunkiem wektora magnetycznego Ziemi a płaszczyzną styczną do jej powierzchni@linia łącząca punkty o jednakowej wartości deklinacji@
+1247@@PL060-0005@Długość geograficzna to:@kąt dwuścienny, zawarty między płaszczyzną południka zerowego a płaszczyzną południka przechodzącego przez dany punkt na powierzchni Ziemi@łuk łączący oba bieguny geograficzne Ziemi, będący przecięciem powierzchni Ziemi płaszczyzną przechodzącą przez oś obrotu Ziemi@łuk powstały w wyniku przecięcia powierzchni Ziemi płaszczyzną prostopadłą do osi Ziemi przechodzącą przez jej środek@kąt zawarty między płaszczyzną równika a pionem (promieniem) danego punktu@
+1248@@PL060-0006@Do określenia trójwymiarowej pozycji obiektu według GPS potrzeba:@odbioru sygnału czterech satelitów,@odbioru sygnału dwóch satelitów,@dwóch odbiorników,@trzech odbiorników.@
+1249@@PL060-0007@Funkcjonowanie którego urządzenia opiera się na oddziaływaniu pola magnetycznego Ziemi?@Busola magnetyczna@Chyłomierz poprzeczny@VOR/ILS@Wariometr@
+1250@@PL060-0008@Godzina 0100 czasu lokalnego latem w Polsce odpowiada godzinie:@2300 UTC dnia poprzedniego@2400 UTC dnia poprzedniego@0100 UTC@1100 UTC@
+1251@@PL060-0009@Godzina 0300 czasu lokalnego latem w Polsce odpowiada godzinie:@0100 UTC@0400 UTC@0200 UTC@1500 UTC@
+1252@@PL060-0010@Godzina 0300 czasu lokalnego zimą w Polsce odpowiada godzinie:@0200 UTC@0400 UTC@0100 UTC@1500 UTC@
+1253@@PL060-0011@Godzina 1300 czasu lokalnego zimą w Polsce odpowiada godzinie:@1200 UTC@1400 UTC@0100 UTC@1100 UTC@
+1254@@PL060-0012@Godzina 2300 czasu lokalnego latem w Polsce odpowiada godzinie:@2100 UTC@0100 UTC dnia następnego@2200 UTC@1100 UTC@
+1255@@PL060-0013@Ile centymetrów na mapie lotniczej w skali 1:500 000 ma odcinek odpowiadający odległości 105 km w terenie:@21 cm@42 cm@25 cm@10.5 cm@
+1256@@PL060-0014@Ile wynosi wartość inklinacji na magnetycznym biegunie północnym?@90 stopni@0 stopni@60 stopni@45 stopni@
+1257@@PL060-0015@Inklinacja magnetyczna to:@kąt zawarty między kierunkiem wektora magnetycznego Ziemi a płaszczyzną styczną do jej powierzchni@kąt zawarty między południkiem geograficznym a południkiem magnetycznym@kąt zawarty między południkiem magnetycznym a południkiem busoli, mierzony zgodnie z połówkowym systemem pomiaru kierunku@linia łącząca punkty o jednakowej wartości deklinacji@
+1258@@PL060-0016@Izogona to:@linia łącząca punkty o jednakowej wartości deklinacji@kąt zawarty między południkiem geograficznym a południkiem magnetycznym@kąt zawarty między południkiem magnetycznym a południkiem busoli, mierzony zgodnie z połówkowym systemem pomiaru kierunku@kąt zawarty między kierunkiem wektora magnetycznego Ziemi a płaszczyzną styczną do jej powierzchni@
+1259@@PL060-0017@Jaka jest wartość inklinacji na magnetycznym biegunie południowym?@90 stopni@0 stopni@60 stopni@45 stopni@
+1260@@PL060-0018@Jaki kierunek określamy jako NE?@045°@095°@135°@345°@
+1261@@PL060-0019@Jaki kierunek określamy jako NW?@315°@295°@335°@205°@
+1262@@PL060-0020@Jaki kierunek określamy jako SE?@135°@095°@315°@045°@
+1263@@PL060-0021@Jaki kierunek określamy jako SW?@225°@295°@335°@205°@
+1264@@PL060-0022@Jeden stopień łuku wielkiego koła Ziemi odpowiada odległości:@60 NM@1 NM@60 km@100 km@
+1265@@PL060-0023@Jedna mila morska [1 NM] to:@1852m@1620m@1820m@1013m@
+1266@@PL060-0024@Jedna minuta łuku wielkiego koła Ziemi odpowiada odległości:@1 NM@1 km@60 km@2 km@
+1267@@PL060-0025@Jest godzina 1200 UTC. Kierownik lotów na lotnisku Łódź-Lublinek patrzy prosto na południe. Widzi on tarczę słońca:@po prawej stronie@po lewej stronie@dokładnie przed sobą@w czasie letnim po prawej, w czasie zimowym - po lewej stronie@
+1268@@PL060-0026@Jeśli w okienku nastaw wysokościomierza wybrana będzie wartość ciśnienia QNH, to wysokościomierz będzie wskazywał:@wysokość bezwzględną@wysokość rzeczywistą@wysokość względną@poziom lotu@
+1269@@PL060-0027@Jeżeli deklinacja magnetyczna i dewiacja busoli jest dodatnia [ΔM>0 i ΔB>0], to kurs busoli jest:@mniejszy od kursu geograficznego@większy od kursu geograficznego@równy kursowi magnetycznemu@równy kursowi geograficznemu@
+1270@@PL060-0028@Jeżeli deklinacja magnetyczna i dewiacja busoli jest ujemna [ΔM<0 i ΔB<0], to kurs busoli jest:@większy od kursu geograficznego@mniejszy od kursu geograficznego@równy kursowi magnetycznemu@równy kursowi geograficznemu@
+1271@@PL060-0029@Jeżeli wektor wiatru jest prostopadły do nakazanej linii drogi i wieje z lewej strony to kąt znoszenia jest:@maksymalny@równy zero@dodatni, lecz nie jest maksymalny@pomijalnie mały@
+1272@@PL060-0030@Kąt dwuścienny, zawarty między płaszczyzną południka zerowego a płaszczyzną południka przechodzącego przez dany punkt na powierzchni Ziemi, to:@długość geograficzna@południk ziemski@równik@szerokość geograficzna@
+1273@@PL060-0031@Kąt zawarty między kierunkiem wektora magnetycznego Ziemi a płaszczyzną styczną do jej powierzchni to:@inklinacja@deklinacja@dewiacja@izogona@
+1274@@PL060-0032@Kąt zawarty między płaszczyzną równika a pionem (promieniem) danego punktu, to:@szerokość geograficzna@południk ziemski@równik@długość geograficzna@
+1275@@PL060-0033@Kąt zawarty między południkiem geograficznym a południkiem magnetycznym to:@deklinacja@inklinacja@kurs geograficzny@kurs magnetyczny@
+1276@@PL060-0034@Kąt zawarty między południkiem magnetycznym a południkiem busoli, mierzony zgodnie z połówkowym systemem pomiaru kierunku to:@dewiacja@deklinacja@kurs magnetyczny@kurs busoli@
+1277@@PL060-0035@Kąt znoszenia to:@Kąt zawarty między podłużną osią statku powietrznego a nakazaną linią drogi.@Kąt zawarty między północnym zwrotem południka a linią drogi.@"Kąt zawarty między kierunkiem ""dokąd wieje wiatr"" a północą magnetyczną."@"Kąt zawarty między podłużną osią statku powietrznego a kierunkiem „skąd wieje wiatr”"@
+1278@@PL060-0036@Kierunek 045 <sup >°</sup >określamy jako@NE@SE@SW@NW@
+1279@@PL060-0037@Kierunek 135 <sup >°</sup >określamy jako@SE@NE@SW@NW@
+1280@@PL060-0038@Kierunek 225 <sup >° <sup >określamy jako@SW@SE@NE@NW@
+1281@@PL060-0039@Kierunek 315<sup>°</sup> określamy jako@NW@SE@SW@NE@
+1282@@PL060-0040@Kody specjalne modu A transpondera to:@"7500 - HIJACK; 7600 - COMMUNICATION FAILURE; 7700 – EMERGENCY"@7500 - EMERGENCY; 7600 - COMMUNICATION FAILURE; 7700 - HIJACK@"7500 - HIJACK; 7600 - EMERGENCY; 7700 - COMMUNICATION FAILURE"@żadna z odpowiedzi nie jest prawdziwa@
+1283@@PL060-0049@Krótszy łuk wielkiego koła wyznaczający najmniejszą odległość między dwoma punktami na powierzchni Ziemi to:@ortodroma@loksodroma@krzywa łącząca te punkty i składająca się z szeregu odcinków loksodromicznych@izohipsa@
+1284@@PL060-0050@Kurs statku powietrznego to mierzony w prawo od 0 do 360 <sup >°</sup >kąt zawarty między:@północnym kierunkiem południka a podłużną osią statku powietrznego@północnym kierunkiem południka a kierunkiem nakazanej drogi statku powietrznego@północnym kierunkiem południka a poprzeczną osią statku powietrznego@północnym kierunkiem południka a kierunkiem drogi starowej@
+1285@@PL060-0051@Latem w Polsce Uniwersalny Czas Skoordynowany (UTC) obliczymy poprzez:@odjęcie od czasu lokalnego (LMT) dwóch godzin [UTC=LMT-2h]@dodanie to czasu lokalnego (LMT) jednej godziny [UTC=LMT+1h]@dodanie to czasu lokalnego (LMT) dwóch godzin [UTC=LMT+2h]@odjęcie od czasu lokalnego (LMT) jednej godziny [UTC=LMT-1h]@
+1286@@PL060-0052@Linia łącząca punkty o jednakowej wartości deklinacji to:@izogona@deklinacja@dewiacja@inklinacja@
+1287@@PL060-0053@Linia na powierzchni Ziemi przecinająca południki pod tymi samymi kątami to:@loksodroma@ortodroma@izogona@izobara@
+1288@@PL060-0054@Łuk łączący oba bieguny geograficzne Ziemi, będący przecięciem powierzchni Ziemi płaszczyzną przechodzącą przez oś obrotu Ziemi, to:@południk ziemski@równik@długość geograficzna@szerokość geograficzna@
+1289@@PL060-0055@Łuk powstały w wyniku przecięcia powierzchni Ziemi płaszczyzną prostopadłą do osi Ziemi przechodzącą przez jej środek, to:@równik@południk ziemski@długość geograficzna@szerokość geograficzna@
+1290@@PL060-0056@Mając następujące dane: kurs geograficzny 200 stopni, deklinacja 10 stopni W, dewiacja -4 stopni, podaj kurs busoli@214 stopni@186 stopni@206 stopni@194 stopni@
+1291@@PL060-0058@Na mapie lotniczej w skali 1:1 000 000 odcinek 20 cm odpowiada rzeczywistej odległości w terenie:@200 km@50 km@100 km@20 km@
+1292@@PL060-0059@Na mapie lotniczej w skali 1:200 000 odcinek 20 cm odpowiada rzeczywistej odległości w terenie:@40 km@20 km@80 km@100 km@
+1293@@PL060-0060@Na mapie lotniczej w skali 1:500 000 odcinek 20 cm odpowiada rzeczywistej odległości w terenie:@100 km@50 km@10 km@200 km@
+1294@@PL060-0061@Na mapie lotniczej w skali 1:500 000 odległość między punktami wynosi 27 cm. Jaki jest faktyczny dystans pomiędzy nimi?@73 NM@54 NM@108 NM@135 NM@
+1295@@PL060-0062@Nastawienie ruchomej skali wysokościomierza tak, aby wskazał wzniesienie terenu, gdy jest na ziemi (na lotnisku) oznaczamy jako:@QNH@QNE@QFE@QDM@
+1296@@PL060-0064@NKDG = 259°, NKDM = 255°, ΔB = +2°. Wartości ΔM i KB wynoszą odpowiednio:@4°E, 253°@2°W, 255°@4°W, 251°@2°E, 249°@
+1297@@PL060-0065@NKDG = 358°, ΔM = 5°W, ΔB = +4°. Wartości NKDM i KB wynoszą odpowiednio:@003°, 359°@359°, 003°@007°, 010°@360°, 359°@
+1298@@PL060-0066@Odległość pomiędzy 10 a 11° długości geograficznej zachodniej na równiku wynosi:@111 km@60 km@60 mil lądowych@111 mil morskich@
+1299@@PL060-0067@Odległość pomiędzy 29 a 30° długości geograficznej wschodniej na równiku wynosi:@111 km@60 km@60 mil lądowych@111 mil morskich@
+1300@@PL060-0068@Odległość pomiędzy 45 a 46° szerokości geograficznej północnej wynosi:@111 km@60 km@60 mil lądowych@111 mil morskich@
+1301@@PL060-0069@Pod określeniem “węzeł” [kt] rozumiemy:@NM/h@SM/h@km/h@m/h@
+1302@@PL060-0070@Podaj długość równika Ziemi:@21 600 NM@21 600 km@12 714 NM@6 865 NM@
+1303@@PL060-0071@Południk ziemski to:@łuk łączący oba bieguny geograficzne Ziemi, będący przecięciem powierzchni Ziemi płaszczyzną przechodzącą przez oś obrotu Ziemi@łuk powstały w wyniku przecięcia powierzchni Ziemi płaszczyzną prostopadłą do osi Ziemi przechodzącą przez jej środek@kąt dwuścienny, zawarty między płaszczyzną południka zerowego a płaszczyzną południka przechodzącego przez dany punkt na powierzchni Ziemi@kąt zawarty między płaszczyzną równika a pionem (promieniem) danego punktu@
+1304@@PL060-0072@Prędkość 15 m/s przeliczona na węzły to:@30@27@24@34@
+1305@@PL060-0073@Prędkość 180 km/h przeliczona na m/s to:@50@30@60@90@
+1306@@PL060-0074@Prędkość 20 m/s przeliczona na km/h to:@72@24@88@100@
+1307@@PL060-0075@Prędkość podróżna GS to:@prędkość przemieszczania się statku powietrznego względem ziemi@CAS z uwzględnieniem wiatru@IAS z uwzględnieniem wiatru@liczba Macha@
+1308@@PL060-0076@Przy pomiarze azymutów (kątów drogi) na mapie odwzorowania międzynarodowego ICAO najmniejszy błąd pomiaru uzyskuje się, gdy:@kątomierz przykłada się przy południku najbliższym środka odcinka trasy@kątomierz przykłada się na punkcie odlotowym trasy@kątomierz przykłada się w punkcie przecięcia przedłużenia odcinka trasy z południkiem ramki mapy@kątomierz przykłada się na punkcie docelowym trasy@
+1309@@PL060-0078@Punkty A i B są oddalone od siebie o 15 km. Na mapie odcinek między nimi ma długość 6 cm. Jaka jest skala tej mapy?@1 : 250 000@1 : 300 000@1 : 400 000@1 : 500 000@
+1310@@PL060-0079@Punkty A i B są oddalone od siebie o 25 km. Na mapie odcinek między nimi ma długość 10 cm. Jaka jest skala tej mapy?@1 : 250 000@1 : 300 000@1 : 400 000@1 : 500 000@
+1311@@PL060-0080@Punkty A i B są oddalone od siebie o 45 km. Na mapie odcinek między nimi ma długość 9 cm. Jaka jest skala tej mapy?@1 : 500 000@1 : 250 000@1 : 400 000@1 : 300 000@
+1312@@PL060-0081@QFE jest to:@ciśnienie atmosferyczne na poziomie lotniska lub na progu drogi startowej@ciśnienie na średnim poziomie morza@ciśnienie standard@fabryczna nastawa wysokościomierza@
+1313@@PL060-0082@QNH jest to:@nastawienie ruchomej skali wysokościomierza tak, aby wskazał wzniesienie terenu, gdy jest na ziemi (na lotnisku)@ciśnienie atmosferyczne na poziomie lotniska lub na progu drogi startowej@ciśnienie standard@fabryczna nastawa wysokościomierza@
+1314@@PL060-0083@Równik ziemski to:@łuk powstały w wyniku przecięcia powierzchni Ziemi płaszczyzną prostopadłą do osi Ziemi przechodzącą przez jej środek@łuk łączący oba bieguny geograficzne Ziemi, będący przecięciem powierzchni Ziemi płaszczyzną przechodzącą przez oś obrotu Ziemi@kąt dwuścienny, zawarty między płaszczyzną południka zerowego a płaszczyzną południka przechodzącego przez dany punkt na powierzchni Ziemi@kąt zawarty między płaszczyzną równika a pionem (promieniem) danego punktu@
+1315@@PL060-0084@Równik ziemski tworzy z wszystkimi południkami geograficznymi kąt:@90°@60°@45°@180°@
+1316@@PL060-0085@Szerokość geograficzna to:@kąt zawarty między płaszczyzną równika a pionem (promieniem) danego punktu@łuk powstały w wyniku przecięcia powierzchni Ziemi płaszczyzną prostopadłą do osi Ziemi przechodzącą przez jej środek@kąt dwuścienny, zawarty między płaszczyzną południka zerowego a płaszczyzną południka przechodzącego przez dany punkt na powierzchni Ziemi@łuk łączący oba bieguny geograficzne Ziemi, będący przecięciem powierzchni Ziemi płaszczyzną przechodzącą przez oś obrotu Ziemi@
+1317@@PL060-0086@Średnia prędkość podróżna statku powietrznego wynosi 60 km/h. W czasie 18 minut zostanie przebyta odległość@18 km@12 km@3 km@23 km@
+1318@@PL060-0087@Wariometr pokazuje wartość 500 ft/min. Po przeliczeniu to:@2.5 m/s@3.5 m/s@5.0 m/s@15 m/s@
+1319@@PL060-0088@Wariometr pokazuje wartość 750 ft/min. Po przeliczeniu to:@3.8 m/s@2.5 m/s@5.0 m/s@7.5 m/s@
+1320@@PL060-0089@Wysokość bezwzględna to:@wysokość mierzona od średniego poziomu morza@wysokość mierzona od poziomu terenu, nad którym statek powietrzny w danej chwili przelatuje@wysokość mierzona od dowolnej powierzchni (poziomu), np. od poziomu progu pasa startowego@żadna z odpowiedzi nie jest prawdziwa@
+1321@@PL060-0090@Wysokość rzeczywista to:@wysokość mierzona od poziomu terenu, nad którym statek powietrzny w danej chwili przelatuje@wysokość mierzona od poziomu morza@wysokość mierzona od dowolnej powierzchni (poziomu), np. od poziomu progu pasa startowego@żadna z odpowiedzi nie jest prawdziwa@
+1322@@PL060-0091@Wysokość względna to:@wysokość mierzona od dowolnej powierzchni (poziomu), np. od poziomu progu pasa startowego@wysokość mierzona od poziomu terenu, nad którym statek powietrzny w danej chwili przelatuje@wysokość mierzona od poziomu morza@żadna z odpowiedzi nie jest prawdziwa@
+1323@@PL060-0092@Z poniższej listy wybierz obiekt orientacyjny liniowy:@tory kolejowe@ostry zakręt rzeki@wysoki maszt radiowy@most@
+1324@@PL060-0093@Z poniższej listy wybierz obiekt orientacyjny powierzchniowy:@duże miasto@wieś@brzeg morza@skrzyżowanie głównych dróg@
+1325@@PL060-0094@Z poniższej listy wybierz obiekt orientacyjny punktowy:@most@duże miasto@tory kolejowe@masyw leśny@
+1326@@PL060-0095@Zimą w Polsce Uniwersalny Czas Skoordynowany (UTC) obliczymy poprzez:@odjęcie od czasu lokalnego (LMT) jednej godziny [UTC=LMT-1h]@dodanie do czasu lokalnego (LMT) jednej godziny [UTC=LMT+1h]@dodanie do czasu lokalnego (LMT) dwóch godzin [UTC=LMT+2h]@odjęcie od czasu lokalnego (LMT) dwóch godzin [UTC=LMT-2h]@
+1327@@PL060-0096@ΔM = 2°E, ΔB = -3°, KB = 127°. Wartości NKDM i NKDG wynoszą odpowiednio:@124°, 126°@126°, 128°@124°, 124°@126°, 124°@
+1328@@PL060-0097@ΔM = 3°E, NKDM = 188°, KB = 190°. Wartości NKDG i ΔB wynoszą odpowiednio:@191°, -2°@185°, -2°@194°, +4°@189°, -3°@
+1329@@PL060-0101@Aby przeliczyć odległość podaną w kilometrach na mile morskie, stosujemy następującą regułę:@(km : 2) + 10%@(km × 2) - 20%@(km : 2) - 10%@(km × 2) - 10 %@
+1330@@PL060-0102@Aby przeliczyć odległość podaną w metrach na stopy, stosujemy następującą regułę:@(m × 3) + 10%@m × 0.3@(m : 10) × 3@(m × 3) : 10@
+1331@@PL060-0103@ADF (Automatic Direction Finder) jest to:@radiokompas@radionamiernik VHF@pokładowe urządzenie odzewowe.@transponder radaru wtórnego@
+1332@@PL060-0109@Bezwładnościowy system nawigacyjny działa na zasadzie:@zliczania zmian położenia w przestrzeni i przyspieszeń, którym podlega statek powietrzny@pomiaru różnicy głębokości modulacji,@pomiaru różnicy odległości.@porównywania prędkości IAS i TAS@
+1333@@PL060-0110@Ciśnienie standardowe oznaczamy jako:@QNE@QFE@QNH@QDM@
+1334@@PL060-0111@Ciśnienie standardowe wyrażone w calach słupa rtęci wynosi:@29.92 inHg@32.10 inHg@28.50 inHg@10.13 inHg@
+1335@@PL060-0112@Czas używany w systemie GPS to:@własny czas systemu skorelowany z UTC.@własny czas systemu zupełnie niezależny od UTC.@Czas zegarów satelitów i systemu dokładnie odpowiada UTC.@Czas zegarów satelitów i systemu dokładnie odpowiada UTC + 6.5h.@
+1336@@PL060-0115@Dokąd doleci statek powietrzny, który wystartował z lotniska EPWA z kursem 300 stopni lecąc w warunkach bezwietrznych po loksodromie:@Lotem po spirali będzie leciał w kierunku bieguna północnego, dążąc do jego osiągnięcia.@Z kursem 300 stopni będzie leciał po równoleżniku i wróci do miejsca wylotu.@Korygując kurs doleci do miejsca wylotu.@Będzie lecieć po południku do bieguna północnego@
+1337@@PL060-0117@Dostrojenie pokładowego zestawu VOR/DME następuje przez:@nastawienie częstotliwości VOR.@nastawienie aktualnego ciśnienia QFE,@wybranie kanału DME,@żadna z odpowiedzi nie jest prawdziwa@
+1338@@PL060-0118@Gdy samolot leci na półkuli północnej z kursem wschodnim i przyspiesza to powstający błąd przyspieszeniowy powoduje, że busola:@wskazuje zakręt w kierunku północy@wskazuje kurs 090@wskazuje zakręt w kierunku południowym@zwalnia wskazywaną prędkość zakrętu@
+1339@@PL060-0119@Gdy samolot leci na półkuli północnej z kursem zachodnim i przyspiesza to powstający błąd przyspieszeniowy powoduje, że busola:@wskazuje zakręt w kierunku północy@wskazuje kurs 270@wskazuje zakręt w kierunku południowym@zwalnia wskazywaną prędkość zakrętu@
+1340@@PL060-0120@Głównym powodem, dla którego odległościowy detektor pola magnetycznego dla busoli magnetycznej montuje się na końcówce skrzydła samolotu, jest:@Umieszczenie tego urządzenia w miejscu, gdzie nie ma żadnych obwodów elektrycznych powodujących dewiację@Ułatwienie dostępu do urządzenia i zwiększenie dostępności na oddziaływanie ziemskiego pola magnetycznego@Umieszczenie tego urządzenia w pozycji, gdzie nie będzie warunków do uszkodzenia tego urządzenia podczas uderzenia pioruna@Żadna z odpowiedzi nie jest prawdziwa@
+1341@@PL060-0122@Ile centymetrów na mapie w skali 1:10 000 ma odcinek odpowiadający odległości 2 km w terenie:@20 cm@40 cm@5 cm@10.5 cm@
+1342@@PL060-0125@Jaką prędkość obserwujemy na wskaźniku DME?@podróżną (GS)@przyrządową (IAS)@rzeczywistą (TAS)@liczbę Macha.@
+1343@@PL060-0127@Jakich częstotliwości używa system VOR?:@108.00-117.95 MHz@107.95-117.95 MHz@108.00-117.00 kHz@112.05-118.00 MHz@
+1344@@PL060-0128@Jakie będzie wskazanie odległości DME w kabinie pilotów w chwili przelotu statku powietrznego bezpośrednio nad radiolatarnią VOR/DME?@Wskazanie równe wysokości, na jakiej leci statek powietrzny.@0 (zero).@Nie będzie żadnego wskazania, gdyż statek powietrzny znajdzie się w stożku martwym urządzenia.@żadna z odpowiedzi nie jest prawdziwa@
+1345@@PL060-0129@Jedna mila morska [1 NM] to (w zaokrągleniu):@6000 stóp@5000 stóp@4500 stóp@8000 stóp@
+1346@@PL060-0130@Jednemu hektopaskalowi zmiany ciśnienia przy ziemi odpowiada (w zaokrągleniu) zmiana wysokości:@30 stóp@40 stóp@10 stóp@50 stóp@
+1347@@PL060-0133@Kąt pomiędzy kursem statku powietrznego a kierunkiem, pod jakim samolot przemieszcza się względem Ziemi, nazywamy:@kątem znoszenia@kątowym bocznym odchyleniem@kątową poprawką dopełniającą@kątem wiatru@
+1348@@PL060-0134@Kąt zawarty między osią podłużną samolotu a kierunkiem do radiolatarni NDB to:@KKR@QDR@QDM@QFE@
+1349@@PL060-0135@Kąt zawarty między osią podłużną statku powietrznego a nakazaną linią drogi to:@kąt znoszenia@kąt wiatru@kąt drogi@kąt kursowy radiolatarni@
+1350@@PL060-0136@Kąt zawarty między północnym kierunkiem południka magnetycznego przechodzącego przez radiolatarnię bezkierunkową a kierunkiem na samolot to:@QDR@QDM@KKR@QFE@
+1351@@PL060-0137@Kąt zawarty między północnym kierunkiem południka magnetycznego przechodzącego przez samolot a kierunkiem do radiolatarni bezkierunkowej to:@QDM@QDR@Radial@QFE@
+1352@@PL060-0139@Liczba Macha to stosunek:@TAS do prędkości dźwięku na danej wysokości@IAS do prędkości dźwięku na danej wysokości@prędkości dźwięku na danej wysokości do IAS@prędkości dźwięku na danej wysokości do TAS@
+1353@@PL060-0140@Liczba możliwych kodów modu A transpondera wynosi:@4096@10000@9999@7700@
+1354@@PL060-0141@Mając następujące dane: elewacja lotniska wynosi 1000 ft oraz QNH = 988 hPa, jaka jest aktualna wysokość ciśnieniowa lotniska? (przy założeniu, że 1 hPa = 27 ft)@320 ft@1680 ft@-320 ft@680 ft@
+1355@@PL060-0149@Model Ziemi dla systemu GPS to:@WGS84.@WGPS.@GPS84.@NAVSTAR.@
+1356@@PL060-0151@Na mapie lotniczej w skali 1:10 000 odcinek 2 cm odpowiada rzeczywistej odległości w terenie:@200 m@50 m@100 m@20 m@
+1357@@PL060-0152@Na mapie lotniczej w skali 1:500 000 odcinek o długości 10.8 cm pokonano w czasie lotu 20 minut. W tym przypadku prędkość podróżna wynosi:@162 km/h@200 MPH@162 kts@200 km/h@
+1358@@PL060-0153@Na mapie w skali 1:10 000 odcinek 20 cm odpowiada rzeczywistej odległości w terenie:@2 km@5 km@10 km@20 km@
+1359@@PL060-0155@Na wskaźniku odległości DME odczytujemy odległość od stacji naziemnej:@ukośną@pionową@poziomą@żadna z odpowiedzi nie jest prawdziwa@
+1360@@PL060-0156@"Na wskaźniku VOR pełne wychylenie CDI oznacza odchylenie co najmniej... stopni od zadanego radialu."@10@5@2@12@
+1361@@PL060-0158@Nadajniki VOR zorientowane są wobec północy:@magnetycznej@geograficznej@busoli@żadna z odpowiedzi nie jest prawdziwa@
+1362@@PL060-0159@Najbardziej dokładne określenie prędkości podróżnej jest możliwe przy użyciu:@stacji DME usytuowanej na trasie lotu@stacji VOR usytuowanej poprzecznie do trasy lotu@stacji DME usytuowanej poprzecznie do trasy lotu@radiolatarni NDB usytuowanej na trasie lotu@
+1363@@PL060-0162@O godzinie 0830 pilot odczytał KKR=315° z radiolatarni NDB. Lecąc dalej tym samym kursem południowym o 0840 był, na KKR=270°. Zakładając, że nie ma znoszenia przez wiatr oraz że jego prędkość podróżna wynosi 240 kt określ odległość od NDB o godzinie 0840.@40 NM@32 NM@48 NM@38 NM@
+1364@@PL060-0163@Objętość 20 US gal odpowiada:@76 l@92 l@20 l@53 l@
+1365@@PL060-0164@Objętość 27 US gal odpowiada:@102 l@92 l@15 l@53 l@
+1366@@PL060-0165@Objętość 34 l odpowiada:@9 US gal@12 US gal@18 US gal@13 US gal@
+1367@@PL060-0166@Objętość 65 l odpowiada:@17 US gal@12 US gal@20 US gal@13 US gal@
+1368@@PL060-0167@Odbiornik DME podaje dane w jednostkach:@NM, kt, min@km, km/h, min@w zależności od nastawy@żadna z odpowiedzi nie jest prawdziwa@
+1369@@PL060-0168@Odczyt wskazań odległości DME w samolocie przelatującym na poziomie FL120 pionowo nad stacją VOR / DME (MSL) będzie wynosił:@około 2 NM.@nie więcej niż 1 NM.@zależy od typu nadajnika DME, ale nigdy więcej niż 1.2 NM.@0 NM (+-0.1 NM).@
+1370@@PL060-0169@Odnośnie radaru prawdą jest, że:@radar pierwotny działa na zasadzie odbicia fal elektromagnetycznych od samolotu, wtórny - na zasadzie odpowiedzi transpondera na pokładzie samolotu.@na samolotach instaluje się wyłącznie radar pierwotny, stacje naziemne wyłącznie systemy radarów wtórnych.@radar pierwotny jest zawsze mniej dokładny niż radar wtórny.@na samolotach instaluje się wyłącznie radar wtórny.@
+1371@@PL060-0173@Pilot aktywuje Special Position Identifier (SPI) w transponderze:@na polecenie kontrolera radarowego@przy zmianie częstotliwości radiowej@podczas korespondencji radiowej@zawsze po ustawieniu nowego kodu (squawk)@
+1372@@PL060-0174@"Pilot planuje przelot z lotniska w Jeleniej Górze (N50°53""57,8"" E015°47"" 7,8"") na lotnisko w Zamościu (N50°42""6,5"" E023°12""15,3"") tak, żeby wylądować przed zachodem słońca. W czasie bezpośredniego przygotowania nawigacyjnego do lotu pilot uwzględnia:"@zachód słońca w Zamościu następuje około 30 minut wcześniej@zachód słońca w Zamościu następuje około 1 godzinę wcześniej@zachód słońca na lotnisku odlotowym i dolotowym następuje w tym samym czasie@zachód słońca w Zamościu następuje około 30 minut później@
+1373@@PL060-0175@"Pilot planuje przelot z lotniska w Zamościu (N50°42""6,5"" E023°12""15,3"") na lotnisko w Jeleniej Górze (N50°53""57,8"" E015°47""7,8"") tak, żeby wylądować przed zachodem słońca. W czasie bezpośredniego przygotowania nawigacyjnego do lotu pilot uwzględnia:"@zachód słońca w Jeleniej Górze następuje 30 minut później@zachód słońca w Jeleniej Górze następuje około 1 godzinę wcześniej@zachód słońca na lotnisku odlotowym i dolotowym następuje w tym samym czasie@zachód słońca w Jeleniej Górze następuje około 30 minut wcześniej@
+1374@@PL060-0176@Pilot uzyskał z TWR przed startem następującą informację o wietrze przy powierzchni Ziemi: 260 stopni/34kt. Jaka jest składowa poprzeczna wiatru do pasa 30?@23 kt@17 kt@29 kt@34 kt@
+1375@@PL060-0185@Prędkość podróżna statku powietrznego wynosi 90 węzłów. W czasie 18 minut zostanie przebyta odległość@27 NM@18 NM@33 NM@45 NM@
+1376@@PL060-0186@Prędkość TAS (True Air Speed) z uwzględnieniem wiatru to:@prędkość podróżna (Ground Speed)@liczba Macha@prędkość wskazywana IAS (Indicated Air Speed)@prędkość poprawiona CAS (Calibrated Air Speed)@
+1377@@PL060-0187@Przed lądowaniem pilot uzyskał z TWR następującą informację o wietrze przy powierzchni Ziemi: 260 stopni/34kt. Jaka jest składowa poprzeczna wiatru do pasa 22?@23 kt@17 kt@29 kt@21 kt@
+1378@@PL060-0190@Przy założeniu, że magnetyczny kąt drogi od LDZ do JED wynosi 159° a od JED do LDZ 339° to statek powietrzny, który przeleciał LDZ w kierunku JED w warunkach bezwietrznych znajduje się:@Na radialu 159° od VOR LDZ, mając kurs 159°.@Na radialu 339° od VOR LDZ, mając kurs 159°.@Na radialu 159° od VOR LDZ, mając kurs 339°.@żadna z odpowiedzi nie jest prawdziwa@
+1379@@PL060-0191@Przy założeniu, że magnetyczny kąt drogi od RUDKA do SIE wynosi 233° a od SIE do RUDKA 053° to statek powietrzny, który przeleciał punkt RUDKA w kierunku SIE w warunkach bezwietrznych leci:@Z kursem 233°, z magnetycznym kątem drogi 233°, na radialu 053° od VOR-a SIE.@Z kursem 233°, z magnetycznym kątem drogi 053°, na radialu 053° od VOR-a SIE.@Z kursem 233°, z magnetycznym kątem drogi 233°, na radialu 233° od VOR-a SIE.@żadna z odpowiedzi nie jest prawdziwa@
+1380@@PL060-0192@Punkt o współrzędnych geograficznych: λ = 120°45’; φ = 23°15’ położony jest w ćwiartce:@NE@SE@SW@NW@
+1381@@PL060-0193@Punkt o współrzędnych geograficznych: λ = -120°45’; φ = 23°15’ położony jest w ćwiartce:@NW@NE@SW@SE@
+1382@@PL060-0194@Punkt o współrzędnych geograficznych: λ = 120°45’; φ = - 23°15’ położony jest w ćwiartce:@SE@NE@SW@NW@
+1383@@PL060-0195@Punkt o współrzędnych geograficznych: λ = -120°45’; φ = - 23°15’ położony jest w ćwiartce:@SW@NE@SE@NW@
+1384@@PL060-0196@Punkty A i B są oddalone od siebie o 600 m. Na mapie odcinek między nimi ma długość 6 cm. Jaka jest skala tej mapy?@1 : 10 000@1 : 150 000@1 : 20 000@1 : 100 000@
+1385@@PL060-0197@Radar pierwotny funkcjonuje najczęściej na zasadzie:@techniki impulsowej@porównywania fazy@transpondera zapytującego@ciągłej emisji fali nośnej@
+1386@@PL060-0198@Radial w kodzie Q jest określany jako:@QDR@QDM@QUJ@QTE@
+1387@@PL060-0199@Radiokompas może odbierać częstotliwości w zakresie:@od 150 kHz do 1800 kHz@od 200 kHz do 600 kHz@od 188 MHz do 413 MHz@powyżej 500 MHz@
+1388@@PL060-0201@Radiolatarnia NDB emituje fale radiowe:@bezkierunkowo,@w określonych sektorach@kierunkowo@co 10 stopni@
+1389@@PL060-0204@Radiolatarniami systemu GPS są:@satelity GPS@odbiorniki GPS@stacje kontrolne@radiostacje VHF@
+1390@@PL060-0205@Radiolatarnie NDB pracują w paśmie częstotliwości:@200-1750 kHz@200-1750 MHz@200-600 kHz@200-800 kHz@
+1391@@PL060-0206@Radionamiernik VDF jest umieszczony na:@Ziemi@pokładzie statku powietrznego@satelicie systemu GPS@żadna z odpowiedzi nie jest prawdziwa@
+1392@@PL060-0207@Radionamierniki VDF pracują na częstotliwościach:@130 MHz i 122.7 MHz@od 108 MHz do 136.975 MHz@od 88 MHz do 108 MHz@powyżej 140 MHz@
+1393@@PL060-0210@Samolot po przelocie 20 NM znajduje się 2 NM na prawo od zaplanowanej trasy. O ile należy zmienić kurs samolotu w celu osiągnięcia zaplanowanej linii drogi po następnych 20 NM?@12 stopni w lewo@6 stopni w prawo@12 stopni w prawo@20 stopni w lewo@
+1394@@PL060-0211@Samolot po przelocie 25 km znajduje się 5 km na lewo od zaplanowanej trasy. O ile należy zmienić kurs samolotu w celu osiągnięcia zaplanowanej linii drogi po następnych 25 km?@25 stopni w prawo@5 stopni w lewo@12 stopni w prawo@15 stopni w lewo@
+1395@@PL060-0212@Samolot po przelocie 30 km znajduje się 4 km na lewo od zaplanowanej trasy. O ile należy zmienić kurs samolotu w celu osiągnięcia zaplanowanej linii drogi po następnych 30 km?@16 stopni w prawo@13 stopni w lewo@12 stopni w prawo@8 stopni w lewo@
+1396@@PL060-0213@Samolot po przelocie 30 km znajduje się 4 km na prawo od zaplanowanej trasy. O ile należy zmienić kurs samolotu w celu osiągnięcia zaplanowanej linii drogi po następnych 30 km?@16 stopni w lewo@13 stopni w prawo@12 stopni w prawo@8 stopni w lewo@
+1397@@PL060-0214@Samolot po przelocie 40 NM znajduje się 2 NM na prawo od zaplanowanej trasy. O ile należy zmienić kurs samolotu w celu osiągnięcia zaplanowanej linii drogi po następnych 40 NM?@6 stopni w lewo@3 stopni w prawo@12 stopni w prawo@9 stopni w lewo@
+1398@@PL060-0216@Samolot wykonuje lot w kierunku radiolatarni metodą bierną (utrzymując KKR = 0). Jeśli kurs magnetyczny samolotu maleje, to znaczy, że samolot:@jest znoszony w prawo@jest znoszony w lewo@wieje zachodni wiatr@kąt znoszenia jest zerowy@
+1399@@PL060-0221@Skrót “RVR” oznacza:@runway visual range - widzialność na drodze startowej@radar vectors requested - prosimy o wektorowanie radarowe@runway visibility report - meldunek o widzialności drogi startowej@recleared via route… - nowe zezwolenie na przelot inną trasą@
+1400@@PL060-0222@Skrót “SSR” oznacza:@secondary surveillance radar - wtórny radar dozorowania@search and surveillance radar - radar poszukiwawczy i dozorujący@surface strength of runway - wytrzymałość nawierzchni drogi startowej@standard snow report - standardowy meldunek o opadach i zaleganiu śniegu@
+1401@@PL060-0224@Stacja DME znajduje się na wysokości 1000 ft AMSL. QNH=1013.25 hPa. Samolot leci na poziomie FL370, 15 NM od stacji DME. Odczyt DME będzie wynosił:@16 NM@15 NM@18 NM@37 NM@
+1402@@PL060-0229@Statek powietrzny lecący w warunkach bezwietrznych z kursem 320 przecina radial 195 od VOR-a JED. Statek powietrzny znajdzie się:@Na zachód od VOR-a JED.@Na wschód od VOR-a JED.@Nad VOR-em JED.@żadna z odpowiedzi nie jest prawdziwa@
+1403@@PL060-0230@Statek powietrzny leci z kursem 330 stopni w warunkach bezwietrznych i przecina radial 120 od VOR/DME LIN w odległości 30 NM DME. Statek powietrzny przeleci:@Po wschodniej stronie VOR/DME LIN@Po zachodniej stronie VOR/DME LIN.@Dokładnie nad VOR/DME LIN.@żadna z odpowiedzi nie jest prawdziwa@
+1404@@PL060-0231@Statek powietrzny planuje zniżanie ze stałą prędkością podróżną. W czasie 5 minut pilot planuje zniżenie z poziomu FL 100 do poziomu FL050. Z jaka prędkością opadania na wariometrze statek powietrzny powinien się zniżać?@1000 ft/min@2000 ft/min@1500 ft/min@500 ft/min@
+1405@@PL060-0232@Statek powietrzny porusza się z prędkością 120 km/h. Prędkość wiatru wynosi 30 km/h. Maksymalna wartość kąta znoszenia w tych warunkach wynosi:@15°@12°@30°@40°@
+1406@@PL060-0233@Statek powietrzny porusza się z prędkością 150 km/h. Prędkość wiatru wynosi 30 km/h. Maksymalna wartość kąta znoszenia w tych warunkach wynosi:@12°@15°@30°@40°@
+1407@@PL060-0234@Statek powietrzny porusza się z prędkością podróżną 150 km/h. W czasie 14 minut przebędzie on odległość@35 km@14 km@27 km@45 km@
+1408@@PL060-0235@Statek powietrzny porusza się z prędkością podróżną 180 km/h. W czasie 18 minut przebędzie on odległość@54 km@36 km@18 km@68 km@
+1409@@PL060-0236@Statek powietrzny startuje z lotniska o elewacji 1500 ft MSL i wznosi się z prędkością pionową 600 ft/min. Jego średnia prędkość podróżna wynosi 90 węzłów, a ciśnienie QNH = 1013.2 hPa. W jakiej odległości od lotniska osiągnięty zostanie FL 75?@15 NM@18 NM@20 NM@12 NM@
+1410@@PL060-0237@Statek powietrzny startuje z lotniska o elewacji 500 ft MSL i wznosi się z prędkością pionową 500 ft/min. Jego średnia prędkość podróżna wynosi 100 węzłów, a ciśnienie QNH = 1013.2 hPa. W jakiej odległości od lotniska osiągnięty zostanie FL 80?@25 NM@18 NM@21 NM@12.5 NM@
+1411@@PL060-0238@Statek powietrzny utrzymuje kurs magnetyczny 060 stopni. Deklinacja wynosi 8 stopni W. Kąt znoszenia +4 stopnie. Z jakim geograficznym kątem drogi przemieszcza się ten statek?@72@56@64@48@
+1412@@PL060-0243@System GPS działa w paśmie ... na zasadzie ... .@UHF, pomiaru o opóźnienia odbioru sygnału (odległości) na drodze odbiornik - satelity.@SHF, podobnie do radaru wtórnego - pytanie-odzew.@SHF, pomiaru o odległości do minimum 24 satelitów.@HF, informacji o odległości do co najmniej 4 satelitów.@
+1413@@PL060-0244@Średnia prędkość podróżna statku powietrznego wynosi 150 km/h. W czasie 18 minut zostanie przebyta odległość@45 km@18 km@27 km@35 km@
+1414@@PL060-0245@Tabele wschodów i zachodów słońca znajdują się w AIP Polska w rozdziale:@GEN@ENR@AD@RAC@
+1415@@PL060-0246@Urządzeniem pokładowym współpracującym z radiolatarnią NDB jest:@radiokompas@radiostacja średniofalowa@radionamiernik VHF@transponder@
+1416@@PL060-0247@Urządzeniem pokładowym współpracującym z radionamiernikiem VDF jest:@radiostacja komunikacyjna VHF@radar wtórny@radiodalmierz DME@radiokompas ADF@
+1417@@PL060-0248@VOR jest radionawigacyjnym systemem:@kątowym@odległościowo-kątowym,@odległościowym,@hiperbolicznym@
+1418@@PL060-0249@VOR podaje kąt namiaru na radiolatarnię:@względem południka magnetycznego samolotu,@względem osi podłużnej statku powietrznego,@względem południka geograficznego samolotu@względem południka busoli@
+1419@@PL060-0251@W jakim celu stosuje się impuls SPI?@jako impuls służący do identyfikacji statku powietrznego@jako impuls kodu alarmowego@jako impuls służący do tłumienia zakłóceń@żadna z odpowiedzi nie jest prawdziwa@
+1420@@PL060-0252@W jakim modzie wysyłane jest zapytanie o wysokość?@"w modzie ""C"""@"w modzie ""3/A"""@"w modzie ""D"""@w modzie ”B”@
+1421@@PL060-0253@W przypadku, kiedy nadajnik i odbiornik poruszają się względem siebie (ruch względny) to zachodzi zjawisko:@zmiana częstotliwości proporcjonalna do prędkości w ruchu względnym.@interferencji pozwalające na mierzenie prędkości.@rozproszenia - zmieniające słyszalność korespondencji.@zmiana częstotliwości odwrotnie proporcjonalna do prędkości w ruchu względnym.@
+1422@@PL060-0254@W sytuacji COMMUNICATION FAILURE pilot włącza transponder w modzie A na kod:@7600@7000@7500@7700@
+1423@@PL060-0255@W sytuacji EMERGENCY pilot włącza transponder w modzie A na kod:@7700@7000@7500@7600@
+1424@@PL060-0256@W sytuacji HIJACK pilot włącza transponder w modzie A na kod:@7500@7000@7600@7700@
+1425@@PL060-0257@Wartość ciśnienia standardowego wynosi:@760 mmHg@750 mmHg@1000 mmHg@1013 mmHg@
+1426@@PL060-0258@Wartość ciśnienia standardowego wynosi:@1013 hPa@760 hPa@1000 hPa@750 hPa@
+1427@@PL060-0261@Współpraca części pokładowej DME z radiolatarnią naziemną wymaga:@dwóch częstotliwości radiowych@jednej częstotliwości radiowej@trzech częstotliwości radiowych@czterech częstotliwości radiowych@
+1428@@PL060-0265@Zakładając, że powietrze jest nieściśliwe i sposób umieszczenia nadajników ciśnienia na samolocie nie powoduje błędów wskazań prędkościomierza, to prędkość rzeczywista TAS jest równa:@prędkości wskazywanej IAS w warunkach bezwietrznych@prędkości wskazywanej IAS poprawionej o wartość poprawki na błąd gęstości powietrza@prędkości podróżnej (GS), gdy uwzględnimy wpływ wiatru@liczbie Macha (Ma)@
+1429@@PL060-0270@Zakres częstotliwości pracy radiodalmierza DME wynosi:@od 960 MHz do 1215 MHz@od 118.0 MHz do 137.9 MHz@od 500 MHz do 1.8 GHz@od 112 MHz do 117.900 MHz@
+1430@@PL060-0272@Zasięg, z jakiego można odbierać sygnały ze stacji naziemnej NDB jest:@większy nad morzem niż obszarami lądowymi.@mniejszy nad morzem niż obszarami lądowymi@nie różni się.@żadna z odpowiedzi nie jest prawdziwa@
+1431@@PL060-0273@Zjawisko załamania fali na brzegu (morze/ląd):@można zminimalizować jego wpływ przez branie namiarów na stacje, których sygnał dochodząc do odbiornika przecina brzeg pod kątem prostym.@występuje tylko w czasie wschodów i zachodów słońca@można zminimalizować przez branie namiarów na stacje położone jak najdalej w głąb lądu@występuje głównie w nocy@
+1432@@PL060-0274@Zniżanie jest planowane z wysokości 7000 ft w ten sposób, żeby osiągnąć 1000 ft AMSL w odległości 6 NM od stacji VOR/DME. Prędkość podróżna wynosi 180kt a prędkość opadania 1000ft/min. Odległość od stacji w chwili rozpoczęcia zniżania wynosi:@24 NM@18 NM@60 NM@13 NM@
+1433@@PL060-0275@Źródłem czasu w systemie GPS są:@własne zegary atomowe satelity.@radiostacja DCF-77 we Frankfurcie,@wewnętrzny zegar kwarcowy odbiornika,@żadna z odpowiedzi nie jest prawdziwa@
