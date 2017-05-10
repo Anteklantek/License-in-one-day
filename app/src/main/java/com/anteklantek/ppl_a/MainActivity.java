@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
     private static final String INDEXES = "6";
     private static final String CURRENT_QUEST = "7";
     private static final String WRONG_ANSWERED_LIST = "8";
+    private static final String CURRENT_FILE = "9";
     private static final int DELAY_TIME = 700;
 
 
@@ -104,6 +105,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
             updateCounters();
             loadNthQuestion(currentQuest);
         } else {
+            currentFile = savedInstanceState.getString(CURRENT_FILE);
             questionList = savedInstanceState.getParcelableArrayList(QUESTION_LIST);
             wrongAnswered = savedInstanceState.getIntegerArrayList(WRONG_ANSWERED_LIST);
             indexes = savedInstanceState.getIntArray(INDEXES);
@@ -141,6 +143,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
     }
 
     private void updateCounters() {
+        String topicName = getResources().getStringArray(R.array.topics)[searchFileNameIndex(currentFile)];
         if (checkBox.isChecked()) {
             if (mistakes + rightAnswers > 0) {
                 float percents = (rightAnswers / (float) (mistakes + rightAnswers)) * 100;
@@ -152,10 +155,10 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
                 } else {
                     setTextViewWrongAnswered(leftQuestions);
                 }
-                leftQuestions.setText(currentFile + " | " + "Pozostało pytań: " + questionsLeftList.size() + " | " + rightAnswers + "/" + (mistakes + rightAnswers) + " | " + percentsString + "%");
+                leftQuestions.setText(topicName + " | " + "Pozostało pytań: " + questionsLeftList.size() + " | " + rightAnswers + "/" + (mistakes + rightAnswers) + " | " + percentsString + "%");
             } else {
                 setTextViewNormalState(leftQuestions);
-                leftQuestions.setText(currentFile + " | " + "Pozostało pytań: " + questionsLeftList.size() + " | " + 0 + "/" + 0);
+                leftQuestions.setText(topicName + " | " + "Pozostało pytań: " + questionsLeftList.size() + " | " + 0 + "/" + 0);
             }
         } else {
             if (mistakes + rightAnswers > 0) {
@@ -168,10 +171,10 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
                 } else {
                     setTextViewWrongAnswered(leftQuestions);
                 }
-                leftQuestions.setText(currentFile + " | " + rightAnswers + "/" + (mistakes + rightAnswers) + " | " + percentsString + "%");
+                leftQuestions.setText(topicName + " | " + rightAnswers + "/" + (mistakes + rightAnswers) + " | " + percentsString + "%");
             } else {
                 setTextViewNormalState(leftQuestions);
-                leftQuestions.setText(currentFile + " | " + 0 + "/" + 0);
+                leftQuestions.setText(topicName + " | " + 0 + "/" + 0);
             }
         }
     }
@@ -391,6 +394,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         outState.putBoolean(GOOD_CHECKED_FLAG, goodCheckedFlag);
         outState.putIntArray(INDEXES, indexes);
         outState.putInt(CURRENT_QUEST, currentQuest);
+        outState.putString(CURRENT_FILE, currentFile);
         outState.putIntegerArrayList(WRONG_ANSWERED_LIST, wrongAnswered);
     }
 
