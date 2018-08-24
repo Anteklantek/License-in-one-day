@@ -1,5 +1,5 @@
 # Licencja w jeden dzień
-Aplikacja na android pomagająca w nauce na egzaminy w lotnicze.
+Aplikacja na androida pomagająca w nauce na egzaminy w lotnicze.
 
 Wszystkie pliki podlegają licencji gpl v3 załączonej w pliku LICENSE
 
