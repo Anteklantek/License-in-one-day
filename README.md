@@ -1,4 +1,14 @@
-# PPL-license-in-one-day
+# Licencja w jeden dzień
+Aplikacja na android pomagająca w nauce na egzaminy w lotnicze.
+
+Wszystkie pliki podlegają licencji gpl v3 załączonej w pliku LICENSE
+
+Aplikacja korzysta z https://github.com/fifly/SPL i https://github.com/fifly/PPL-A, stworzone przez:
+Paweł 'felixd' Wojciechowski - [Outsourcing IT - Konopnickiej.Com](http://www.konopnickiej.com)
+
+Jeśli chcesz dodać pytania z innych tematów stwórz wystaw kod a ja chetnie go zcalę.
+
+# License in one day
 Android app for learning for flying exams
 
 All files in this repository are under gpl v3 license, attached in LICENSE file.
@@ -10,15 +20,5 @@ Feel free to create pull requests with additional questions.
 
 Only for polish exams.
 
-# Licencja w jeden dzień
-Aplikacja na android pomagająca w nauce na egzaminy w lotnicze.
-
-Wszystkie pliki podlegają licencji gpl v3 załączonej w pliku LICENSE
-
-Aplikacja korzysta z https://github.com/fifly/SPL i https://github.com/fifly/PPL-A, stworzone przez:
-Paweł 'felixd' Wojciechowski - [Outsourcing IT - Konopnickiej.Com](http://www.konopnickiej.com)
-
-Jeśli chcesz dodać pytania z innych tematów stwórz wystaw kod a ja chetnie go zcalę.
-
 # Autor
-Antoni Kowalski
+Antoni Kowalski -kontakt pod a n t o n i . k .k o w a l s k i  g m a i l . c o m, dodaj tylko @ przed gmail.
