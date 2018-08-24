@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
     private static final String SF_FILE_LEFT_BY_USER_KEY = "SF_FILE_LEFT_BY_USER_KEY";
     private static final String SF_MISTAKES_KEY = "SF_MISTAKES_KEY";
     private static final String SF_RIGHTS_KEY = "SF_RIGHTS_KEY";
-    private static final String DEFAULT_FILENAME = "procedury";
+    private static final String DEFAULT_FILENAME = "procedury_ppl";
     private static final String QUESTION_LEFT_LIST = "1";
     private static final String QUESTION_LIST = "2";
     private static final String MISTAKES = "3";

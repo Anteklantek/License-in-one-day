@@ -53,7 +53,7 @@
             android:layout_marginLeft="8dp"
             android:layout_marginStart="8dp"
             android:layout_marginTop="8dp"
-            android:text="PPL W JEDEN DZIEŃ"
+            android:text="LICENCJA W JEDEN DZIEŃ"
             android:textStyle="bold"
             app:layout_constraintBottom_toBottomOf="@+id/action_bar"
             app:layout_constraintLeft_toRightOf="@+id/imageView"

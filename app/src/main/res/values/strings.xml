@@ -1,28 +1,47 @@
 <resources>
-    <string name="app_name">PPL</string>
+    <string name="app_name">Licencja</string>
     <string-array name="topics">
-        <item>Procedury</item>
-        <item>Meteo</item>
-        <item>Zasady Lotu</item>
-        <item>Osiągi i Planowanie</item>
-        <item>Człowiek</item>
-        <item>Nawigacja</item>
-        <item>Łączność</item>
-        <item>Ogólna wiedza</item>
-        <item>Prawo lotnicze</item>
+        <item>(PPL) Procedury</item>
+        <item>(PPL) Meteo</item>
+        <item>(PPL) Zasady Lotu</item>
+        <item>(PPL) Osiągi i Planowanie</item>
+        <item>(PPL) Człowiek</item>
+        <item>(PPL) Nawigacja</item>
+        <item>(PPL) Łączność</item>
+        <item>(PPL) Ogólna wiedza</item>
+        <item>(PPL) Prawo lotnicze</item>
+        <item>(SPL) Procedury</item>
+        <item>(SPL) Meteo</item>
+        <item>(SPL) Zasady Lotu</item>
+        <item>(SPL) Osiągi i Planowanie</item>
+        <item>(SPL) Człowiek</item>
+        <item>(SPL) Nawigacja</item>
+        <item>(SPL) Łączność</item>
+        <item>(SPL) Ogólna wiedza</item>
+        <item>(SPL) Prawo lotnicze</item>
+
 
     </string-array>
 
     <string-array name="topics_filenames">
-        <item>procedury</item>
-        <item>meteo</item>
-        <item>zasady_lotu</item>
-        <item>osiagi_i_planowanie</item>
-        <item>czlowiek</item>
-        <item>nawigacja</item>
-        <item>lacznosc</item>
-        <item>ogolna_wiedza</item>
-        <item>prawo_lotnicze</item>
+        <item>procedury_ppl</item>
+        <item>meteo_ppl</item>
+        <item>zasady_lotu_ppl</item>
+        <item>osiagi_i_planowanie_ppl</item>
+        <item>czlowiek_ppl</item>
+        <item>nawigacja_ppl</item>
+        <item>lacznosc_ppl</item>
+        <item>ogolna_wiedza_ppl</item>
+        <item>prawo_lotnicze_ppl</item>
+        <item>procedury_spl</item>
+        <item>meteo_spl</item>
+        <item>zasady_lotu_spl</item>
+        <item>osiagi_i_planowanie_spl</item>
+        <item>czlowiek_spl</item>
+        <item>nawigacja_spl</item>
+        <item>lacznosc_spl</item>
+        <item>ogolna_wiedza_spl</item>
+        <item>prawo_lotnicze_spl</item>
     </string-array>
 
 </resources>
