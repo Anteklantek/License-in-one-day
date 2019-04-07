@@ -25,4 +25,4 @@ App is also avaible from google play: https://play.google.com/store/apps/details
 Only for polish exams.
 
 # Autor
-Antoni Kowalski -kontakt pod a n t o n i . k .k o w a l s k i  g m a i l . c o m, dodaj tylko @ przed gmail.
+Antoni Kowalski -kontakt pod a n t o n i . k .k o w a l s k i  g m a i l . c o m
